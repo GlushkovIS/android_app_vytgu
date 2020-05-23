@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Get a new color</string>
+    <string name="btnText">ЦВЕТ 1</string>
+    <string name="btnText2">ЦВЕТ 2</string>
+    <string name="btnText3">ЦВЕТ 3</string>
+    <string name="btnReset">Сгенерировать заново</string>
+</resources>
